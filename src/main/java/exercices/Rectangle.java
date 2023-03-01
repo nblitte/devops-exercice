@@ -1,5 +1,7 @@
 package exercices;
 
+// Commentaire formation
+
 public class Rectangle {
     public double Longueur;
     public double Largeur;
