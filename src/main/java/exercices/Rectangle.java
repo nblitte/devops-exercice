@@ -1,7 +1,7 @@
 package exercices;
 
 // Commentaire formation
-
+// Exercie creation de branch
 public class Rectangle {
     public double Longueur;
     public double Largeur;
